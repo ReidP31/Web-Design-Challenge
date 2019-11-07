@@ -1,0 +1,32 @@
+#pageheader {
+    background-color: rgb(3, 193, 193);
+    padding: 10px;
+    color: white; 
+    font: bold 25px "Times New Roman";
+    
+}
+
+.navlist {
+    align-items: right;
+}
+
+#landing_container {
+    padding: 40px;
+}
+
+h2 {
+    background-color: white;
+    padding: 10px;
+    color: rgb(3, 193, 193); 
+    font-family: "Times New Roman";
+    font-weight: bold;
+}
+
+h3 {
+    background-color: white;
+    padding: 10px;
+    color: rgb(3, 193, 193); 
+    font-family: "Times New Roman";
+    font-weight: bold;
+    font-size: 28px;
+}

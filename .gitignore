@@ -328,3 +328,12 @@ ASALocalRun/
 
 # MFractors (Xamarin productivity tool) working folder 
 .mfractor/
+
+# Misc.
+*.DS_Store
+__pycache__
+index_example.html
+index copy.html
+assets
+*ipynb_checkpoints
+Untitled.ipynb
