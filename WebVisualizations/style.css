@@ -3,30 +3,58 @@
     padding: 10px;
     color: white; 
     font: bold 25px "Times New Roman";
+    position: relative;
+    left: 110px;
     
+}
+
+#landing_container {
+    margin-right: 190px;
+    margin-top: 55px;
+ 
+}
+
+#navbarNavDropdown {
+    position: relative;
+    right: 30px;
+}
+
+
+.dropdown-toggle {
+    color: black;
+    position:relative;
+    top: 8px;
+    right: 5px;
+}
+
+.nav-item {
+    color: black;
 }
 
 .navlist {
     align-items: right;
 }
 
-#landing_container {
-    padding: 40px;
-}
+
+
+
+
 
 h2 {
     background-color: white;
-    padding: 10px;
+    padding-top: 15px;
     color: rgb(3, 193, 193); 
     font-family: "Times New Roman";
     font-weight: bold;
+    
 }
 
 h3 {
     background-color: white;
-    padding: 10px;
+    padding-top: 15px;
     color: rgb(3, 193, 193); 
     font-family: "Times New Roman";
     font-weight: bold;
     font-size: 28px;
+    padding: 9px;
 }
