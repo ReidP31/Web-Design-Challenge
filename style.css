@@ -8,7 +8,7 @@
 }
 
 #landing_container {
-    margin-left: 100px;
+    padding-top: 100px;
     
 }
 
@@ -27,21 +27,24 @@
     text-align: center;
 }
 
+.dropdown {
+    padding: 8px;
+}
+
+
 .dropdown-toggle {
     color: black;
     position:relative;
-    top: 8px;
-    right: 5px;
 }
 
+.navbarNavDropdown {
+    padding: auto;
+}
 
 .nav-item {
     color: black;
 }
 
-.navlist {
-    align-items: right;
-}
 
 
 
